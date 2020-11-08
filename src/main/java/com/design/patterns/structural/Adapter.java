@@ -1,4 +1,7 @@
-package design.structural;
+package com.design.patterns.structural;
+
+import java.util.List;
+import java.util.Optional;
 
 /**
  * The purpose of this design pattern is to adapt one interface to be used as another one.
@@ -121,6 +124,8 @@ class TestAdapter {
         twoDimensionalShape.resize(2);
     }
     public static void main(String... args) {
+        Integer sowhat = null;
+        Integer testshit = Optional.ofNullable(sowhat).orElse(10);
         TwoDimensionalShape triangle = new Triangle();
         TwoDimensionalShape rectangle = new Rectangle();
         ThreeDimensionalShape sphere = new Sphere();

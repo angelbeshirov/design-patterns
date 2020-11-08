@@ -1,4 +1,4 @@
-package design.structural;
+package com.design.patterns.structural;
 
 /**
  * Decorator design pattern is used to add or remove functionality from existing classes or interfaces.

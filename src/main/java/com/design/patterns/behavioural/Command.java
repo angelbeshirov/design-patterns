@@ -1,4 +1,4 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -50,7 +50,7 @@ class LogReader {
 
 class CommandToGetBiggestResponse implements Command {
 
-    private LogReader logReader;
+    private final LogReader logReader;
 
     public CommandToGetBiggestResponse(LogReader logReader) {
         this.logReader = logReader;

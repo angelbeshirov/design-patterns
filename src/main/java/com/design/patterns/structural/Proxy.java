@@ -1,4 +1,4 @@
-package design.structural;
+package com.design.patterns.structural;
 
 /**
  * In computer programming, the proxy pattern is a software design pattern. A proxy, in its most general form,

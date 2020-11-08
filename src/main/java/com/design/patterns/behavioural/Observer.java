@@ -1,4 +1,4 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
 import java.io.BufferedReader;
 import java.io.IOException;

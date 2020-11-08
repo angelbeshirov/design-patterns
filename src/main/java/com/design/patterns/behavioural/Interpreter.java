@@ -1,4 +1,4 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
 import java.util.*;
 import java.util.concurrent.ExecutorService;

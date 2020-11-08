@@ -1,4 +1,4 @@
-package design.creational;
+package com.design.patterns.creational;
 
 /**
  *

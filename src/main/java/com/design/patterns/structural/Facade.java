@@ -1,4 +1,4 @@
-package design.structural;
+package com.design.patterns.structural;
 
 /**
  * The facade pattern is a software-design pattern commonly used in object-oriented programming.
