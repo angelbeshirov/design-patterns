@@ -1,4 +1,4 @@
-package design.structural;
+package com.design.patterns.structural;
 
 import java.util.Arrays;
 import java.util.List;

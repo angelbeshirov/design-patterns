@@ -1,6 +1,5 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
-import javax.print.attribute.standard.Media;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

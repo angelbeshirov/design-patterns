@@ -1,4 +1,4 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
 /**
  * The template method is a method in a superclass, usually an abstract superclass, and defines the skeleton

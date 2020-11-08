@@ -1,4 +1,4 @@
-package design.behavioural;
+package com.design.patterns.behavioural;
 
 /**
  * In computer programming, the strategy pattern (also known as the policy pattern) is a behavioral software design

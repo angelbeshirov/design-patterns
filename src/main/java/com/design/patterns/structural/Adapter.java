@@ -1,4 +1,4 @@
-package design.structural;
+package com.design.patterns.structural;
 
 /**
  * The purpose of this design pattern is to adapt one interface to be used as another one.
